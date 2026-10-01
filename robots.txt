@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://augustinedavid.vercel.app/sitemap.xml
+Sitemap: https://augustinedavid.vercel.app/robots.txt
